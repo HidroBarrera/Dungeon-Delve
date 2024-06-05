@@ -9,17 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf67d0e30729a394b81cfb64ba210810, type: 3}
-  m_Name: New SO_Stats
+  m_Script: {fileID: 11500000, guid: 8197c80a80bbdf24b81333f01fd0ba4d, type: 3}
+  m_Name: Slime-Slime
   m_EditorClassIdentifier: 
-  Name: 
-  vida: 0
-  maxVida: 0
-  atac: 0
-  velocitat: 0
-  defensa: 0
-  imatge: {fileID: 0}
-  positionList: 0
-  critChange: 0
-  critDamage: 0
-  damagReduction: 0
+  list:
+  - {fileID: 3021646161682159478, guid: 34c64169fc4a95d4f9e476182e06e2df, type: 3}
+  - {fileID: 3021646161682159478, guid: 34c64169fc4a95d4f9e476182e06e2df, type: 3}

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
@@ -8,8 +9,11 @@ public class GameController : MonoBehaviour
     [SerializeField] GameObject menuPanel;
     void Start()
     {
-        controlsPanel.SetActive(true);
-        Time.timeScale = 0;
+        if (SceneManager.GetActiveScene().name != "Dungeon")
+        {
+            controlsPanel.SetActive(true);
+            Time.timeScale = 0;
+        }
     }
 
     public void ExitPanel()
