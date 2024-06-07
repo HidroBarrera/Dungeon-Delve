@@ -95,7 +95,8 @@ public class LoginController : MonoBehaviour
     {
         successState.color = Color.green;
         successState.text = "Login correcte";
-        ChargeScene(item.identificador);
+        SceneManager.LoadScene("Vilage");
+        //ChargeScene(item.identificador);
     }
 
     private void ChargeScene(int identificador)
