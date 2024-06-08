@@ -57,15 +57,17 @@ També pots descarregar un executable al següent enllaç:
 
 <table>
   <tr>
-    <td whith="500"><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaInici_0.png" alt="Pantalla d'Inici"></td>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaInici_0.png" alt="Pantalla d'Inici"></td>
     <td>
       La pantalla d'inici conté els següents elements:
-      <ul>
-        <li><strong>Títol del Joc</strong>: "Dungeon Delve the Eternal Trial".</li>
-        <li><strong>Botó "Iniciar"</strong>: Inicia el joc.</li>
-        <li><strong>Botó "Sortir"</strong>: Surt del joc.</li>
-        <li><strong>Botó "Informació"</strong>: Accedeix a la pantalla d'informació sobre les versions del joc.</li>
-      </ul>
+      <br>
+<strong>Títol del Joc</strong>: "Dungeon Delve the Eternal Trial".
+<br>
+<strong>Botó "Iniciar"</strong>: Inicia el joc.
+<br>
+<strong>Botó "Sortir"</strong>: Surt del joc.
+<br>
+<strong>Botó "Informació"</strong>: Accedeix a la pantalla d'informació sobre les versions del joc.
     </td>
   </tr>
 </table>
@@ -74,8 +76,9 @@ També pots descarregar un executable al següent enllaç:
 
 <table>
   <tr>
-    <td whith="500"><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaInformacio_0.png" alt="Pantalla d'Informació"></td>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaInformacio_0.png" alt="Pantalla d'Informació"></td>
     <td>
+    <br>
       La pantalla d'informació mostra detalls sobre les diferents versions del joc:
       <strong>Botó "Retornar"</strong>: Accedeix a la pantalla anterior
     </td>
