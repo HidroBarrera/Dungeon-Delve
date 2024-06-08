@@ -1,6 +1,9 @@
+
 # Dungeon-Delve
 
 Per entendre el funcionament d'aquest projecte, primer introduiré uns quants conceptes i una petita presentació.
+
+
 
 ## Índex
 
@@ -226,7 +229,7 @@ Imatges d'exemple:
   <tr>
     <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/MapaCiutat.png" alt="Pantalla de reguistre"></td>
     <td>
-    https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaControls.png
+    <img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaControls.png" alt="Pantalla de reguistre">
     </td>
   </tr>
 </table>
