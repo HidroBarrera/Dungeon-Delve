@@ -72,15 +72,16 @@ També pots descarregar un executable al següent enllaç:
   </tr>
 </table>
 
-[Botó "Iniciar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-online/offline)
+[Botó "Iniciar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-onlineoffline) = 
 Al apretar aquest boto accedeixes a la pàgina Online/Offline.
 
-Botó "Sortir"
+Botó "Sortir" = 
 Surts del joc.
 
-[Botó "Informació"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinformació)
+[Botó "Informació"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinformació) = 
 Al apretar el boto accedeixes a la pàgina de Informació
 
+--
 ### Pantalla d'Informació
 
 <table>
