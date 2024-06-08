@@ -1,5 +1,4 @@
 
-
 # Dungeon-Delve
 
 Per entendre el funcionament d'aquest projecte, primer introduiré uns quants conceptes i una petita presentació.
@@ -58,7 +57,7 @@ També pots descarregar un executable al següent enllaç:
 
 <table>
   <tr>
-    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaInici_0.png" alt="Pantalla d'Inici"></td>
+    <td whith="500"><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaInici_0.png" alt="Pantalla d'Inici"></td>
     <td>
       La pantalla d'inici conté els següents elements:
       <ul>
@@ -75,15 +74,10 @@ També pots descarregar un executable al següent enllaç:
 
 <table>
   <tr>
-    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaInformacio_0.png" alt="Pantalla d'Informació"></td>
+    <td whith="500"><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaInformacio_0.png" alt="Pantalla d'Informació"></td>
     <td>
       La pantalla d'informació mostra detalls sobre les diferents versions del joc:
-      <ul>
-        <li><strong>Versió 0.3</strong>: Millora i guardar l'estat a la base de dades.</li>
-        <li><strong>Versió 0.2</strong>: Implementació de Sprite i animacions.</li>
-        <li><strong>Versió 0.1</strong>: Reorganització del projecte.</li>
-        <li><strong>Versió 0.0</strong>: Registre i inici de sessió de l'usuari, moviment pel mapa, integració amb els enemics i combat per torns 1 vs 4.</li>
-      </ul>
+      <strong>Botó "Retornar"</strong>: Accedeix a la pantalla anterior
     </td>
   </tr>
 </table>
