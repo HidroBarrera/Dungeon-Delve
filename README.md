@@ -25,7 +25,7 @@ Aquest videojoc ha sigut un repte per mi, he hagut d'investigar coses que no sa 
 ## De què tracta
 
 <p align="center">
-  <img src= "https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/Referencia_0.png" width="100"/
+  <img src= "https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/Referencia_0.png" width="250"/
   <span style="margin-left: 20px;">És un roguelike basat en estètica medieval on el jugador entra en un laberint amb la idea d'obtenir diners i fama, la qual cosa els enemics i altres aventures es posaran en el seu camí. Mitjançant la narrativa el jugador descobreix l'origen del laberint, el perquè existeix, qui va ser el seu creador i perquè els monstres apareixen en ordre de més dèbil a fort depenent de quin lloc del laberint estàs.
 </span>
 </p>
