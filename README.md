@@ -1,9 +1,6 @@
-
 # Dungeon-Delve
 
 Per entendre el funcionament d'aquest projecte, primer introduiré uns quants conceptes i una petita presentació.
-
-
 
 ## Índex
 
@@ -125,6 +122,7 @@ Al apretar aquest boto accedeixes a la pàgina de iniciar secció, el perque vol
 
 [Botó "Offline"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
 Al apretar aquest boto accedeixes a la pantalla del joc, tingui en compte que no es guardara res al tancar el joc.
+
 ---
 
 ### Pantalla inici secció
@@ -175,3 +173,78 @@ Imatges d'exemple:
   </tr>
 </table>
 ---
+
+### Pantalla de reguistre
+
+<table>
+  <tr>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaReguistre_0.png" alt="Pantalla de reguistre"></td>
+    <td>
+    <br>
+      La pantalla inici secció Conte els botons seguens:
+      <br>
+      <strong>Botó "Registrar-se"</strong>
+      <br>
+      <strong>Botó "Cancel·lar"</strong>
+      <br>
+      <strong>Camp usuari</strong>
+      <br>
+      <strong>Camp correu</strong>
+      <br>
+      <strong>Camp contresenya</strong>
+    </td>
+  </tr>
+</table>
+
+[Botó "Retornar-se"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
+Al apretar aquest boto envies la informacio entrada a la base de dades i mostre per pantalla un missatge confirman la acció.
+
+[Botó "Cancel·lar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
+Al apretar aquest boto accedeixes a la pàgina anterior.
+
+Camp usuari = aqui es on poses el nom del usuari que vols fer servir pel registre
+
+Camp correu = aqui es on poses el correu que vols fer servir pel registre
+
+Camp contresenya = aqui poses la teva contresenya, procura no compartirla i que contingui mes de 3 caracters.
+
+Imatges d'exemple:
+<table>
+  <tr>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaReguistre_1.png" alt="Pantalla inici secció">
+    </td>
+    <td>
+    <img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaReguistre_2.png" alt="Pantalla inici secció">
+    </td>
+  </tr>
+</table>
+---
+
+### Pantalla del videojoc, ciutat
+
+<table>
+  <tr>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/MapaCiutat.png" alt="Pantalla de reguistre"></td>
+    <td>
+    https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaControls.png
+    </td>
+  </tr>
+</table>
+
+Mapa de la ciutat = Aqui podem veure com es la ciutat, al final de la ciutat veurem el que es un portal, el qual ens portara al labarint.
+
+Pantalla de controls = En aquesta pantalla podem veure que el mobiment es amb wasd i si apretem esc entrem en una pantalla de pausa.
+
+### Pantalla del videojoc, labarint
+
+<table>
+  <tr>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/MapaDungeon_0.png" alt="Pantalla de reguistre"></td>
+  </tr>
+</table>
+
+Mapa del labarint = Aqui podem veure com es la primera sala del labarint, aqui podem trobar enemics els quals podem esquivar o interectuar amb ells.
+
+Monstres = Si colisionem amb algun entrerem en el combat.
+
+### Pantalla del videojoc, combat
