@@ -81,7 +81,7 @@ Surts del joc.
 [Botó "Informació"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinformació) = 
 Al apretar el boto accedeixes a la pàgina de Informació
 
---
+---
 ### Pantalla d'Informació
 
 <table>
@@ -95,6 +95,7 @@ Al apretar el boto accedeixes a la pàgina de Informació
   </tr>
 </table>
 
+---
 ### Pantalla Online/Offline
 <table>
   <tr>
@@ -111,3 +112,4 @@ Al apretar el boto accedeixes a la pàgina de Informació
     </td>
   </tr>
 </table>
+---
