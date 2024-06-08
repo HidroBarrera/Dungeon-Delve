@@ -1,4 +1,5 @@
 
+
 # Dungeon-Delve
 
 Per entendre el funcionament d'aquest projecte, primer introduiré uns quants conceptes i una petita presentació.
@@ -55,10 +56,34 @@ També pots descarregar un executable al següent enllaç:
 
 ### Pantalla d'Inici
 
-| ![Pantalla d'Inici](https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaInici_0.png) | La pantalla d'inici conté els següents elements: <br>- **Títol del Joc**: "Dungeon Delve the Eternal Trial". <br>- **Botó "Iniciar"**: Inicia el joc. <br>- **Botó "Sortir"**: Surt del joc. <br>- **Botó "Informació"**: Accedeix a la pantalla d'informació sobre les versions del joc. |
-|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<table>
+  <tr>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaInici_0.png" alt="Pantalla d'Inici"></td>
+    <td>
+      La pantalla d'inici conté els següents elements:
+      <ul>
+        <li><strong>Títol del Joc</strong>: "Dungeon Delve the Eternal Trial".</li>
+        <li><strong>Botó "Iniciar"</strong>: Inicia el joc.</li>
+        <li><strong>Botó "Sortir"</strong>: Surt del joc.</li>
+        <li><strong>Botó "Informació"</strong>: Accedeix a la pantalla d'informació sobre les versions del joc.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### Pantalla d'Informació
 
-| ![Pantalla d'Informació](https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaInformacio_0.png) | La pantalla d'informació mostra detalls sobre les diferents versions del joc: <br>- **Versió 0.3**: Millora i guardar l'estat a la base de dades. <br>- **Versió 0.2**: Implementació de Sprite i animacions. <br>- **Versió 0.1**: Reorganització del projecte. <br>- **Versió 0.0**: Registre i inici de sessió de l'usuari, moviment pel mapa, integració amb els enemics i combat per torns 1 vs 4. També hi ha un botó per tornar a la pantalla d'inici. <br>- **Botó "Retornar"**: Accedeix a la pantalla anterior.|
-|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<table>
+  <tr>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaInformacio_0.png" alt="Pantalla d'Informació"></td>
+    <td>
+      La pantalla d'informació mostra detalls sobre les diferents versions del joc:
+      <ul>
+        <li><strong>Versió 0.3</strong>: Millora i guardar l'estat a la base de dades.</li>
+        <li><strong>Versió 0.2</strong>: Implementació de Sprite i animacions.</li>
+        <li><strong>Versió 0.1</strong>: Reorganització del projecte.</li>
+        <li><strong>Versió 0.0</strong>: Registre i inici de sessió de l'usuari, moviment pel mapa, integració amb els enemics i combat per torns 1 vs 4.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
