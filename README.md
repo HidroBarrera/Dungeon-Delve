@@ -82,6 +82,7 @@ Surts del joc.
 Al apretar el boto accedeixes a la pàgina de Informació
 
 ---
+
 ### Pantalla d'Informació
 
 <table>
@@ -100,6 +101,7 @@ Al apretar el boto accedeixes a la pàgina de Informació
 Al apretar aquest boto accedeixes a la pàgina anterior.
 
 ---
+
 ### Pantalla Online/Offline
 <table>
   <tr>
@@ -175,6 +177,7 @@ Imatges d'exemple:
     </td>
   </tr>
 </table>
+
 ---
 
 ### Pantalla de reguistre
@@ -221,6 +224,7 @@ Imatges d'exemple:
     </td>
   </tr>
 </table>
+
 ---
 
 ### Pantalla del videojoc, ciutat
