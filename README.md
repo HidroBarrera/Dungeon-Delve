@@ -90,10 +90,14 @@ Al apretar el boto accedeixes a la pàgina de Informació
     <td>
     <br>
       La pantalla d'informació mostra detalls sobre les diferents versions del joc:
+      <br>
       <strong>Botó "Retornar"</strong>: Accedeix a la pantalla anterior
     </td>
   </tr>
 </table>
+
+[Botó "Retornar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
+Al apretar aquest boto accedeixes a la pàgina anterior.
 
 ---
 ### Pantalla Online/Offline
@@ -104,11 +108,69 @@ Al apretar el boto accedeixes a la pàgina de Informació
     <br>
       La pantalla Online/Offline Conte els botons seguens:
       <br>
-      <strong>Botó "Retornar"</strong>: Accedeix a la pantalla anterior
+      <strong>Botó "Retornar"</strong>
       <br>
-      <strong>Botó "Online"</strong>: Accedeix a la pantalla de iniciar secció
+      <strong>Botó "Online"</strong>
       <br>
-      <strong>Botó "Offline"</strong>: Entres al principi del joc
+      <strong>Botó "Offline"</strong>
+    </td>
+  </tr>
+</table>
+
+[Botó "Retornar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
+Al apretar aquest boto accedeixes a la pàgina anterior.
+
+[Botó "Online"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-inici-seccio) = 
+Al apretar aquest boto accedeixes a la pàgina de iniciar secció, el perque vols iniciar secció es per guardar el progres al nubul i poder jugar en altres dispositius si tens les cradencials.
+
+[Botó "Offline"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
+Al apretar aquest boto accedeixes a la pantalla del joc, tingui en compte que no es guardara res al tancar el joc.
+---
+
+### Pantalla inici secció
+<table>
+  <tr>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaIniciSeccio_0.png" alt="Pantalla inici secció"></td>
+    <td>
+    <br>
+      La pantalla inici secció Conte els botons seguens:
+      <br>
+      <strong>Botó "Retornar"</strong>
+      <br>
+      <strong>Botó "Iniciar"</strong>
+      <br>
+      <strong>Botó "Reguistre"</strong>
+      <br>
+      <strong>Camp usuari / correu</strong>
+      <br>
+      <strong>Camp contresenya</strong>
+    </td>
+  </tr>
+</table>
+
+[Botó "Retornar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
+Al apretar aquest boto accedeixes a la pàgina anterior.
+
+[Botó "Iniciar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
+Al apretar aquest boto si les credencials son correctes accedeixes al joc.
+
+[Botó "Reguistre"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
+Al apretar aquest boto accedeixes a la pàgina de reguistre, si no tens una compte hauras de reguistrar-te.
+
+Camp usuari / correu = aqui es on poses el nom del usuari o el correu que has utilitzat per reguistrar-te.
+
+Camp contresenya = aqui poses la teva contresenya, procura no compartirla i que contingui mes de 3 caracters.
+
+Imatges d'exemple:
+<table>
+  <tr>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaOnOffLine_1.png" alt="Pantalla inici secció">
+    </td>
+    <td>
+    <img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaOnOffLine_2.png" alt="Pantalla inici secció">
+    </td>
+    <td>
+    <img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaOnOffLine_3.png" alt="Pantalla inici secció">
     </td>
   </tr>
 </table>
