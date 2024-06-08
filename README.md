@@ -58,7 +58,7 @@ També pots descarregar un executable al següent enllaç:
 
 ### Pantalla d'Inici
 
-| ![Pantalla d'Inici](ruta/a/la/imatge/PantallaInici_0.png) | La pantalla d'inici conté els següents elements: <ul><li><strong>Títol del Joc</strong>: "Dungeon Delve the Eternal Trial".</li><li><strong>Botó "Iniciar"</strong>: Inicia el joc.</li><li><strong>Botó "Sortir"</strong>: Surt del joc.</li><li><strong>Botó "Informació"</strong>: Accedeix a la pantalla d'informació sobre les versions del joc.</li></ul> |
+| ![Pantalla d'Inici](https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaInici_0.png) | La pantalla d'inici conté els següents elements: Títol del Joc: "Dungeon Delve the Eternal Trial".<li><strong>Botó "Iniciar"</strong>: Inicia el joc.</li><li><strong>Botó "Sortir"</strong>: Surt del joc.</li><li><strong>Botó "Informació"</strong>: Accedeix a la pantalla d'informació sobre les versions del joc.</li></ul> |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ### Pantalla d'Informació
