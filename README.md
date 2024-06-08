@@ -25,7 +25,6 @@ Aquest videojoc ha sigut un repte per mi, he hagut d'investigar coses que no sa 
 ## De què tracta
 
 | ![Referencia](https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/Referencia_0.png) | És un roguelike basat en estètica medieval on el jugador entra en un laberint amb la idea d'obtenir diners i fama, la qual cosa els enemics i altres aventures es posaran en el seu camí. Mitjançant la narrativa el jugador descobreix l'origen del laberint, el perquè existeix, qui va ser el seu creador i perquè els monstres apareixen en ordre de més dèbil a fort depenent de quin lloc del laberint estàs. |
-|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 El combat del joc és per torns, el jugador pot lluitar contra 1 enemic fins a un nombre de 4, els torns es decidiran per la velocitat, si algú augmenta la velocitat o depenent de les circumstàncies es pot arribar a fer dues accions per ronda.
 
