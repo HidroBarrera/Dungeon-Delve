@@ -7,15 +7,12 @@ Per entendre el funcionament d'aquest projecte, primer introduiré uns quants co
 
 ## Índex
 
-· Creador
+- [Creador](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#creador)
+- [De què tracta](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#de-què-tracta)
+- [Història](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#història)
+- [Com es pot jugar](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#com-es-pot-jugar)
+- [Funcionament](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#funcionament)
 
-· De què tracta
-
-· Història
-
-· Com es pot jugar
-
-· Funcionament
 ## Creador
 
 - [@HidroBarrera](https://github.com/HidroBarrera)
