@@ -4,6 +4,7 @@
 Per entendre el funcionament d'aquest projecte, primer introduiré uns quants conceptes i una petita presentació.
 
 
+
 ## Índex
 
 · Creador
@@ -12,7 +13,7 @@ Per entendre el funcionament d'aquest projecte, primer introduiré uns quants co
 
 · Història
 
-· Descarrega
+· Com es pot jugar
 
 · Funcionament
 ## Creador
@@ -36,5 +37,32 @@ Després de seleccionar un potenciador s'obrirà una o diverses portes les quals
 La vista es top down, amb sprites pixel art d’uns 64bits, actualment el mapa seran prefabs pre dissenyats on es faran servir aleatòriament.
 
 ## Història
-## Descarrega
+
+**La Llegenda dels Laberints Divins**
+
+En un món remot i misteriós, els déus, eternament avorrits de la seva existència divina, van decidir crear una sèrie de laberints màgics. Aquests laberints, plens de tresors i perills indescriptibles, van ser dissenyats per desafiar la valentia i l'enginy dels aventurers mortals. Els déus, des dels seus troncs celestials, observaven amb interès i diversió com els humans s'endinsaven en aquestes estructures intricades, posant a prova les seves habilitats.
+
+Els laberints no eren simples estructures de pedra i metall. Estaven imbuïts de màgia ancestral, canviant constantment la seva forma i contingut per mantenir el desafiament viu.
+
+
+## Com es pot jugar
+
+Per poder jugar pots entrar a l'enllaç següent de GitHub:
+
+També pots descarregar un executable al següent enllaç:
+
+- Un cop descarregat descomprimeix la carpeta
+- Seguidament executa el següent .exe
+- Gaudeix el videojoc
 ## Funcionament
+
+### Pantalla d'Inici
+
+| ![Pantalla d'Inici](ruta/a/la/imatge/PantallaInici_0.png) | La pantalla d'inici conté els següents elements: <ul><li><strong>Títol del Joc</strong>: "Dungeon Delve the Eternal Trial".</li><li><strong>Botó "Iniciar"</strong>: Inicia el joc.</li><li><strong>Botó "Sortir"</strong>: Surt del joc.</li><li><strong>Botó "Informació"</strong>: Accedeix a la pantalla d'informació sobre les versions del joc.</li></ul> |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+### Pantalla d'Informació
+
+| ![Pantalla d'Informació](ruta/a/la/imatge/PantallaInformacio_0.png) | La pantalla d'informació mostra detalls sobre les diferents versions del joc: <ul><li><strong>Informació de les versions</strong>: Text on explica els canvis implementats</li></ul> |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
