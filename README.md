@@ -61,16 +61,25 @@ També pots descarregar un executable al següent enllaç:
     <td>
       La pantalla d'inici conté els següents elements:
       <br>
-<strong>Títol del Joc</strong>: "Dungeon Delve the Eternal Trial".
+<strong>Títol del Joc</strong>
 <br>
-<strong>Botó "Iniciar"</strong>: Inicia el joc.
+<strong>Botó "Iniciar"</strong>
 <br>
-<strong>Botó "Sortir"</strong>: Surt del joc.
+<strong>Botó "Sortir"</strong>
 <br>
-<strong>Botó "Informació"</strong>: Accedeix a la pantalla d'informació sobre les versions del joc.
+<strong>Botó "Informació"</strong>
     </td>
   </tr>
 </table>
+
+[Botó "Iniciar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-online/offline)
+Al apretar aquest boto accedeixes a la pàgina Online/Offline.
+
+Botó "Sortir"
+Surts del joc.
+
+[Botó "Informació"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinformació)
+Al apretar el boto accedeixes a la pàgina de Informació
 
 ### Pantalla d'Informació
 
@@ -81,6 +90,23 @@ També pots descarregar un executable al següent enllaç:
     <br>
       La pantalla d'informació mostra detalls sobre les diferents versions del joc:
       <strong>Botó "Retornar"</strong>: Accedeix a la pantalla anterior
+    </td>
+  </tr>
+</table>
+
+### Pantalla Online/Offline
+<table>
+  <tr>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaOnOffLine_0.png" alt="Pantalla Online/Offline"></td>
+    <td>
+    <br>
+      La pantalla Online/Offline Conte els botons seguens:
+      <br>
+      <strong>Botó "Retornar"</strong>: Accedeix a la pantalla anterior
+      <br>
+      <strong>Botó "Online"</strong>: Accedeix a la pantalla de iniciar secció
+      <br>
+      <strong>Botó "Offline"</strong>: Entres al principi del joc
     </td>
   </tr>
 </table>
