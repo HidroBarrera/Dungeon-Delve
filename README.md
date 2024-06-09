@@ -43,6 +43,8 @@ Els laberints no eren simples estructures de pedra i metall. Estaven imbuïts de
 
 Per poder jugar pots entrar a l'enllaç següent de GitHub:
 
+[Pages del videojoc](https://hidrobarrera.github.io/DungeonDelve-WebGL/)
+
 També pots descarregar un executable al següent enllaç:
 
 - Un cop descarregat descomprimeix la carpeta
