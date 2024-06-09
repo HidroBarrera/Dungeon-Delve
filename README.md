@@ -255,3 +255,62 @@ Mapa del labarint = Aqui podem veure com es la primera sala del labarint, aqui p
 Monstres = Si colisionem amb algun entrerem en el combat.
 
 ### Pantalla del videojoc, combat
+
+<table>
+  <tr>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/Combat_0.png" alt="Pantalla de reguistre">
+    <img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/Combat_2.png" alt="Pantalla de reguistre"></td>
+    <td>
+        A la pantalla de combat observem el seguent:
+      <br>
+      <strong>Personatge</strong>
+      <br>
+      <strong>Grup d'enemics</strong>
+      <br>
+      <strong>Barres de vida</strong>
+      <br>
+      <strong>Camp amb botons / text</strong>
+      <br>
+      <strong>Botons laterals</strong>
+    </td>
+  </tr>
+</table>
+
+Personatge = Personatge controlat pel jugador.
+
+Grup d'enemics = Al entrar a combat es fa una tria aleatoria entre varies llistes d'enemics i dintre la pantalla de combat es mostren els que t'hauras d'enfrontar.
+
+Barres de vida = Son les barres de color verd o vermell, les quals ensenyen la vida que tenen cada personatge.
+
+Camp amb botons / text = Aquest camp canviara d'apanent la situacio en la que et trobis.
+Els boton de color blau amb una imatge son les accions que pots arribar a fer, les quals estan explicades a la pantalla informacio explicada mes endevan.
+
+Botons laterals = Hi han dos botons el primer entres a la pantalla de pause, per si vols sortir del joc, del labarint o de la partida. El seguent boto, que te una interogant, es el boto d'informacio.
+
+---
+
+### Pantalla del videojoc, combat
+
+<table>
+  <tr>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/Combat_3.png" alt="Pantalla de reguistre">
+    <img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/Combat_4.png" alt="Pantalla de reguistre">
+    <img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/Combat_5.png" alt="Pantalla de reguistre">
+    </td>
+    <td>
+        A la pantalla de combat observem el seguent:
+      <br>
+      <strong>Personatge</strong>
+      <br>
+      <strong>Grup d'enemics</strong>
+      <br>
+      <strong>Barres de vida</strong>
+      <br>
+      <strong>Camp amb botons / text</strong>
+      <br>
+      <strong>Botons laterals</strong>
+    </td>
+  </tr>
+</table>
+
+Personatge = Personatge controlat pel jugador.
