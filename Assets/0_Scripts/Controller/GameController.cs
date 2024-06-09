@@ -7,9 +7,10 @@ public class GameController : MonoBehaviour
 {
     [SerializeField] GameObject controlsPanel;
     [SerializeField] GameObject menuPanel;
+    [SerializeField] GameObject menuInfoPanel;
     void Start()
     {
-        if (SceneManager.GetActiveScene().name != "Dungeon")
+        if (SceneManager.GetActiveScene().name == "Vilage")
         {
             controlsPanel.SetActive(true);
             Time.timeScale = 0;
@@ -28,5 +29,9 @@ public class GameController : MonoBehaviour
     {
         menuPanel.SetActive(false);
         Time.timeScale = 1;
+    }
+    public void ExitMenuInfoPanel()
+    {
+        menuInfoPanel.SetActive(false);
     }
 }

@@ -13,4 +13,8 @@ public class ButtonController : MonoBehaviour
     {
         SceneManager.LoadScene("Vilage");
     }
+    public virtual void ReturnGameMenu()
+    {
+        SceneManager.LoadScene("StartMenu");
+    }
 }
