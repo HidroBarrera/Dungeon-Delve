@@ -1,9 +1,6 @@
-
 # Dungeon-Delve
 
 Per entendre el funcionament d'aquest projecte, primer introduiré uns quants conceptes i una petita presentació.
-
-
 
 ## Índex
 
@@ -254,6 +251,8 @@ Mapa del labarint = Aqui podem veure com es la primera sala del labarint, aqui p
 
 Monstres = Si colisionem amb algun entrerem en el combat.
 
+---
+
 ### Pantalla del videojoc, combat
 
 <table>
@@ -287,30 +286,35 @@ Els boton de color blau amb una imatge son les accions que pots arribar a fer, l
 
 Botons laterals = Hi han dos botons el primer entres a la pantalla de pause, per si vols sortir del joc, del labarint o de la partida. El seguent boto, que te una interogant, es el boto d'informacio.
 
----
-
 ### Pantalla del videojoc, combat
 
 <table>
   <tr>
     <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/Combat_3.png" alt="Pantalla de reguistre">
-    <img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/Combat_4.png" alt="Pantalla de reguistre">
-    <img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/Combat_5.png" alt="Pantalla de reguistre">
     </td>
     <td>
-        A la pantalla de combat observem el seguent:
-      <br>
-      <strong>Personatge</strong>
-      <br>
-      <strong>Grup d'enemics</strong>
-      <br>
-      <strong>Barres de vida</strong>
-      <br>
-      <strong>Camp amb botons / text</strong>
-      <br>
-      <strong>Botons laterals</strong>
+        En aquesta pantalla podem trobar les estedistiques del personatge
     </td>
   </tr>
 </table>
 
-Personatge = Personatge controlat pel jugador.
+<table>
+  <tr>
+    <td>
+    <img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/Combat_4.png" alt="Pantalla de reguistre">
+    </td>
+    <td>
+        Pantalla amb un petit tutorial de com atacar a un enemic
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/Combat_5.png" alt="Pantalla de reguistre">
+    </td>
+    <td>
+        Explicacio del que fan cada una de les accions del personatge.      
+    </td>
+  </tr>
+</table>
