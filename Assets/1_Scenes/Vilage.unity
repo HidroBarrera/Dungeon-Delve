@@ -34817,7 +34817,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1734137739}
-  - {fileID: 1857241609}
   - {fileID: 819285448}
   - {fileID: 932538854}
   m_Father: {fileID: 0}
@@ -34906,7 +34905,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 96251551}
-  - component: {fileID: 96251553}
   - component: {fileID: 96251552}
   m_Layer: 0
   m_Name: AreaExit
@@ -34914,7 +34912,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &96251551
 Transform:
   m_ObjectHideFlags: 0
@@ -34930,42 +34928,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 819285448}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!70 &96251552
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 96251550}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.3, y: 0}
-  m_Size: {x: 0.3, y: 2}
-  m_Direction: 0
---- !u!114 &96251553
+--- !u!114 &96251552
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -34974,12 +34937,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 96251550}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: be3591bd5a2d9d842b3913a54e457bba, type: 3}
+  m_Script: {fileID: 11500000, guid: 1f05b69c20720ec4c97c9b21d3ec1975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  areaToLoad: Dungeon
-  areaJointPoint: Vilage
-  entranceAssociatedToExit: {fileID: 932538855}
+  areaJointPoint: Dungeon
 --- !u!1 &316540534
 GameObject:
   m_ObjectHideFlags: 0
@@ -35550,7 +35511,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &638971527
 RectTransform:
   m_ObjectHideFlags: 0
@@ -39196,6 +39157,8 @@ GameObject:
   - component: {fileID: 819285450}
   - component: {fileID: 819285449}
   - component: {fileID: 819285452}
+  - component: {fileID: 819285454}
+  - component: {fileID: 819285453}
   m_Layer: 0
   m_Name: Portal
   m_TagString: Untagged
@@ -39304,6 +39267,56 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c8d0f48c68a22f4483f9362eb4b3bda, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!70 &819285453
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 819285447}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.35287046, y: 0}
+  m_Size: {x: 0.1964426, y: 2}
+  m_Direction: 0
+--- !u!114 &819285454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 819285447}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be3591bd5a2d9d842b3913a54e457bba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  areaToLoad: Dungeon
+  areaJointPoint: Vilage
+  entranceAssociatedToExit: {fileID: 0}
 --- !u!1 &906375684
 GameObject:
   m_ObjectHideFlags: 0
@@ -115525,11 +115538,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 124644133591019213, guid: 6df47c6c538b4244fa418cfaede920d3, type: 3}
   m_PrefabInstance: {fileID: 2889281330644908058}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1857241609 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 3792469801080070294, guid: 6df47c6c538b4244fa418cfaede920d3, type: 3}
-  m_PrefabInstance: {fileID: 2889281330644908058}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1883554579
 GameObject:
   m_ObjectHideFlags: 0
@@ -115633,7 +115641,7 @@ Transform:
   m_GameObject: {fileID: 1914468097}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -70, y: 12, z: -10}
+  m_LocalPosition: {x: 12, y: -1, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -116091,7 +116099,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 40614114}
+    m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 124644133591019213, guid: 6df47c6c538b4244fa418cfaede920d3, type: 3}
       propertyPath: m_Name
@@ -116103,11 +116111,11 @@ PrefabInstance:
       objectReference: {fileID: 1677239543}
     - target: {fileID: 3792469801080070294, guid: 6df47c6c538b4244fa418cfaede920d3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -75
+      value: -77.68865
       objectReference: {fileID: 0}
     - target: {fileID: 3792469801080070294, guid: 6df47c6c538b4244fa418cfaede920d3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 13
+      value: 14.226418
       objectReference: {fileID: 0}
     - target: {fileID: 3792469801080070294, guid: 6df47c6c538b4244fa418cfaede920d3, type: 3}
       propertyPath: m_LocalPosition.z
@@ -116155,6 +116163,7 @@ SceneRoots:
   - {fileID: 907432606}
   - {fileID: 2076892307}
   - {fileID: 40614114}
+  - {fileID: 2889281330644908058}
   - {fileID: 1541662116}
   - {fileID: 1477619831}
   - {fileID: 943205379}

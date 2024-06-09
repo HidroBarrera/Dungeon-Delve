@@ -48,7 +48,7 @@ public class EnemyController : MonoBehaviour
             {
                 if (Time.time >= tiempoEspera)
                 {
-                    agent.SetDestination(new Vector2(UnityEngine.Random.Range(-2, 29.32f), UnityEngine.Random.Range(-2, 14.33f)));
+                    agent.SetDestination(new Vector2(UnityEngine.Random.Range(-50, 26), UnityEngine.Random.Range(-26, 11)));
                     tiempoEspera = Time.time + UnityEngine.Random.Range(1f, 10f);
                 }
             }

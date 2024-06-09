@@ -3,6 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UI;
@@ -52,7 +53,7 @@ public class SigninController : MonoBehaviour
     {
         Usuari user = new()
         {
-            identificador = CountIdentificadors(),
+            identificador = Convert.ToInt32(CountIdentificadors()),
             userName = textUserName.text,
             email = textEmail.text,
             password = textPassword.text
@@ -60,12 +61,12 @@ public class SigninController : MonoBehaviour
         return JsonConvert.SerializeObject(user);
     }
 
-    private int CountIdentificadors()
+    private string CountIdentificadors()
     {
         string url2 = DataBaseApiUri.BaseUri() + "/api/usuari/get";
         UnityWebRequest www = UnityWebRequest.Get(url2);
         www.downloadHandler = new DownloadHandlerBuffer();
-        return Int32.Parse(www.downloadHandler.text);
+        return www.downloadHandler.text;
     }
 
     private void FailApi(string messatge)
