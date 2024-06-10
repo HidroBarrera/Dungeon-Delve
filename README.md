@@ -24,11 +24,11 @@ Aquest videojoc ha sigut un repte per mi, he hagut d'investigar coses que no sa 
 
 El combat del joc és per torns, el jugador pot lluitar contra 1 enemic fins a un nombre de 4, els torns es decidiran per la velocitat, si algú augmenta la velocitat o depenent de les circumstàncies es pot arribar a fer dues accions per ronda.
 
-Rondes: franja de les accions abans que es torni a fer un càlcul de velocitat.Al finalitzar un combat els enemics poden deixar pas a una selecció de potenciadors, els potenciadors augmentaran els efectes de les accions del jugador, permeten fer més mal o aplicar efectes alterats.
+Rondes: franja de les accions abans que es torni a fer un càlcul de velocitat. Al finalitzar un combat els enemics poden deixar pas a una selecció de potenciadors, els potenciadors augmentaran els efectes de les accions del jugador, permeten fer més mal o aplicar efectes alterats.
 
 Després de seleccionar un potenciador s'obrirà una o diverses portes les quals et poden portar a una zona de recompensa o combat, la de combat és com diu el nom, la de recompensa et permet seleccionar un objecte d'una petita varietat, aquest objecte pot modificar estadístiques del jugador, depenent de les que té actualment.
 
-La vista es top down, amb sprites pixel art d’uns 64bits, actualment el mapa seran prefabs pre dissenyats on es faran servir aleatòriament.
+La vista és top down, amb sprites pixel art d'uns 64 bits, actualment el mapa seran prefabs predissenyats on es faran servir aleatòriament.
 
 ## Història
 
@@ -71,13 +71,13 @@ També pots descarregar un executable al següent enllaç: [Executable del joc](
 </table>
 
 [Botó "Iniciar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-onlineoffline) = 
-Al apretar aquest boto accedeixes a la pàgina Online/Offline.
+A l'apretar aquest boto accedeixes a la pàgina Online/Offline.
 
 Botó "Sortir" = 
 Surts del joc.
 
 [Botó "Informació"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinformació) = 
-Al apretar el boto accedeixes a la pàgina de Informació
+A l'apretar el boto accedeixes a la pàgina d'Informació
 
 ---
 
@@ -96,7 +96,7 @@ Al apretar el boto accedeixes a la pàgina de Informació
 </table>
 
 [Botó "Retornar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
-Al apretar aquest boto accedeixes a la pàgina anterior.
+A l'apretar aquest boto accedeixes a la pàgina anterior.
 
 ---
 
@@ -108,23 +108,23 @@ Al apretar aquest boto accedeixes a la pàgina anterior.
     <br>
       La pantalla Online/Offline Conte els botons seguens:
       <br>
-      <strong>Botó "Retornar"</strong>
+      <strong>Boto "Retornar"</strong>
       <br>
-      <strong>Botó "Online"</strong>
+      <strong>Boto "Online"</strong>
       <br>
-      <strong>Botó "Offline"</strong>
+      <strong>Boto "Offline"</strong>
     </td>
   </tr>
 </table>
 
 [Botó "Retornar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
-Al apretar aquest boto accedeixes a la pàgina anterior.
+A l'apretar aquest boto accedeixes a la pàgina anterior.
 
 [Botó "Online"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-inici-seccio) = 
-Al apretar aquest boto accedeixes a la pàgina de iniciar secció, el perque vols iniciar secció es per guardar el progres al nubul i poder jugar en altres dispositius si tens les cradencials.
+A l'apretar aquest boto accedeixes a la pàgina d'iniciar secció, el perquè vols obrir secció és per guardar el progrés al núvol i poder jugar en altres dispositius si tens les credencials.
 
 [Botó "Offline"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
-Al apretar aquest boto accedeixes a la pantalla del joc, tingui en compte que no es guardara res al tancar el joc.
+A l'apretar aquest boto accedeixes a la pantalla del joc, tingui en compte que no es guardarà res en tancar el joc.
 
 ---
 
@@ -134,13 +134,13 @@ Al apretar aquest boto accedeixes a la pantalla del joc, tingui en compte que no
     <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaIniciSeccio_0.png" alt="Pantalla inici secció"></td>
     <td>
     <br>
-      La pantalla inici secció Conte els botons seguens:
+      La pantalla, inici de secció compte els botons següent:
       <br>
       <strong>Botó "Retornar"</strong>
       <br>
       <strong>Botó "Iniciar"</strong>
       <br>
-      <strong>Botó "Reguistre"</strong>
+      <strong>Botó "Registre"</strong>
       <br>
       <strong>Camp usuari / correu</strong>
       <br>
@@ -150,17 +150,17 @@ Al apretar aquest boto accedeixes a la pantalla del joc, tingui en compte que no
 </table>
 
 [Botó "Retornar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
-Al apretar aquest boto accedeixes a la pàgina anterior.
+A l'apretar aquest boto accedeixes a la pàgina anterior.
 
 [Botó "Iniciar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
-Al apretar aquest boto si les credencials son correctes accedeixes al joc.
+A l'apretar aquest boto si les credencials són correctes accedeixes al joc.
 
 [Botó "Reguistre"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
-Al apretar aquest boto accedeixes a la pàgina de reguistre, si no tens una compte hauras de reguistrar-te.
+A l'apretar aquest boto accedeixes a la pàgina de registre, si no tens un compte hauràs de registrar-te.
 
-Camp usuari / correu = aqui es on poses el nom del usuari o el correu que has utilitzat per reguistrar-te.
+Camp usuari / correu = aquí és on poses el nom de l'usuari o el correu que has utilitzat per registrar-te.
 
-Camp contresenya = aqui poses la teva contresenya, procura no compartirla i que contingui mes de 3 caracters.
+Camp contrasenya = aquí poses la teva contrasenya, procura no compartir-la i que contingui més de 3 caràcters.
 
 Imatges d'exemple:
 <table>
@@ -178,14 +178,14 @@ Imatges d'exemple:
 
 ---
 
-### Pantalla de reguistre
+### Pantalla de registre
 
 <table>
   <tr>
     <td><img src="https://github.com/HidroBarrera/Image-DDET-Readmy/blob/main/PantallaReguistre_0.png" alt="Pantalla de reguistre"></td>
     <td>
     <br>
-      La pantalla inici secció Conte els botons seguens:
+      La pantalla, inici secció compte els botons següent:
       <br>
       <strong>Botó "Registrar-se"</strong>
       <br>
@@ -195,22 +195,22 @@ Imatges d'exemple:
       <br>
       <strong>Camp correu</strong>
       <br>
-      <strong>Camp contresenya</strong>
+      <strong>Camp contrasenya</strong>
     </td>
   </tr>
 </table>
 
 [Botó "Retornar-se"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
-Al apretar aquest boto envies la informacio entrada a la base de dades i mostre per pantalla un missatge confirman la acció.
+A l'apretar aquest boto envies la informació entrada a la base de dades i mostra per pantalla un missatge confirmant l'acció.
 
 [Botó "Cancel·lar"](https://github.com/HidroBarrera/Dungeon-Delve/blob/main/README.md#pantalla-dinici) = 
-Al apretar aquest boto accedeixes a la pàgina anterior.
+A l'apretar aquest boto accedeixes a la pàgina anterior.
 
-Camp usuari = aqui es on poses el nom del usuari que vols fer servir pel registre
+Camp usuari = aquí és on poses el nom de l'usuari que vols fer servir per al registre
 
-Camp correu = aqui es on poses el correu que vols fer servir pel registre
+Camp correu = aquí és on poses el correu que vols fer servir per al registre
 
-Camp contresenya = aqui poses la teva contresenya, procura no compartirla i que contingui mes de 3 caracters.
+Camp contrasenya = aquí poses la teva contrasenya, procura no compartir-la i que contingui més de 3 caràcters.
 
 Imatges d'exemple:
 <table>
@@ -236,11 +236,11 @@ Imatges d'exemple:
   </tr>
 </table>
 
-Mapa de la ciutat = Aqui podem veure com es la ciutat, al final de la ciutat veurem el que es un portal, el qual ens portara al labarint.
+Mapa de la ciutat = Aquí podem veure com és la ciutat, al final de la ciutat veurem el que és un portal, el qual ens portarà al laberint.
 
-Pantalla de controls = En aquesta pantalla podem veure que el mobiment es amb wasd i si apretem esc entrem en una pantalla de pausa.
+Pantalla de controls = En aquesta pantalla podem veure que el moviment és amb wasd i si premem esc entrem en una pantalla de pausa.
 
-### Pantalla del videojoc, labarint
+### Pantalla del videojoc, laberint
 
 <table>
   <tr>
@@ -248,9 +248,9 @@ Pantalla de controls = En aquesta pantalla podem veure que el mobiment es amb wa
   </tr>
 </table>
 
-Mapa del labarint = Aqui podem veure com es la primera sala del labarint, aqui podem trobar enemics els quals podem esquivar o interectuar amb ells.
+Mapa del laberint = Aquí podem veure com és la primera sala del laberint, aquí podem trobar enemics els quals podem esquivar o interactuar amb ells.
 
-Monstres = Si colisionem amb algun entrerem en el combat.
+Monstres = Si col·lisionem amb algun entrarem en el combat.
 
 ---
 
@@ -278,14 +278,14 @@ Monstres = Si colisionem amb algun entrerem en el combat.
 
 Personatge = Personatge controlat pel jugador.
 
-Grup d'enemics = Al entrar a combat es fa una tria aleatoria entre varies llistes d'enemics i dintre la pantalla de combat es mostren els que t'hauras d'enfrontar.
+Grup d'enemics = A l'entrar a combat es fa una tria aleatòria entre diverses llistes d'enemics i dintre la pantalla de combat es mostren els que t'hauràs d'enfrontar.
 
 Barres de vida = Son les barres de color verd o vermell, les quals ensenyen la vida que tenen cada personatge.
 
-Camp amb botons / text = Aquest camp canviara d'apanent la situacio en la que et trobis.
-Els boton de color blau amb una imatge son les accions que pots arribar a fer, les quals estan explicades a la pantalla informacio explicada mes endevan.
+Camp amb botons / text = Aquest camp canviarà d'apanant la situació en la qual et trobis.
+Els botons de color blau amb una imatge són les accions que pots arribar a fer, les quals estan explicades a la pantalla informació explicada més endavant.
 
-Botons laterals = Hi han dos botons el primer entres a la pantalla de pause, per si vols sortir del joc, del labarint o de la partida. El seguent boto, que te una interogant, es el boto d'informacio.
+Botons laterals = Hi ha dos botons el primer entres a la pantalla de pause, per si vols sortir del joc, del laberint o de la partida. El següent boto, que té una interrogant, es el boto d'informació.
 
 ### Pantalla del videojoc, combat
 
